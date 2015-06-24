@@ -1,0 +1,25 @@
+input[type='checkbox'] {
+	
+	/* Hide the input, but have it still be clickable */
+	opacity: 0;
+}
+
+input[type='checkbox'] + label {
+	margin: 0;
+	clear: none;
+	
+	/* Left padding makes room for image */
+	padding: 5px 0px 4px 20px;
+
+	/* Make look clickable because they are */
+	cursor: pointer;
+	
+	background: url(photo/off.png) left center no-repeat;	
+}
+
+/*
+	Change from unchecked to checked graphic
+*/
+input[type='checkbox']:checked + label {
+	background-image: url(photo/check.png);
+}

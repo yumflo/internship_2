@@ -1,0 +1,501 @@
+@charset "utf-8";
+/* CSS Document */
+#Index_Location{/*Title and Transcript位置*/
+	margin:auto;
+	margin-top:30px;
+	width:1200px;
+}
+#Table_Location{/*Title and Transcript位置*/
+	margin:auto;
+	margin-top:30px;
+	width:1200px;
+}
+#Table_Title{/*Title and Transcript位置*/
+	margin:auto;
+	margin-top:30px;
+	width:1200px;
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	
+}
+#Table_Location2{/*Attention_Statistic_Figures位置*/
+	margin-top:30px;
+	width:300px;
+}
+#Table_Location3{/*Relax_Statistic_Figures位置*/
+	margin-top:20px;
+	width:300px;
+}
+#Table_Location4{/*Relax_Statistic_Figures位置*/
+	float:right;
+	margin-top:100px;
+	margin-right:300px;
+	width:500px;
+}
+body
+{
+	line-height: 10px;
+}
+
+#Transcript th.title-style_1
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-right: 1px solid #01a8a0;
+	background-color:#b5e6e3;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style_2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	background-color:#b5e6e3;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style2_1
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: right;
+	background-color:#e5f5f4;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style2_2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: left;
+	background-color:#e5f5f4;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style3_1
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: right;
+	background-color:#cdedec;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style3_2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: left;
+	background-color:#cdedec;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style4
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-right: 1px solid #01a8a0;
+	border-bottom: 1.5px solid #01a8a0;
+	background-color:#cdedec;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style5
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	border-right: 1px solid #cdedec;
+	border-bottom: 1.5px solid #01a8a0;
+	background-color:#FFFFFF;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript th.title-style6
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	border-right: 1px solid #cdedec;
+	border-bottom: 1.5px solid #01a8a0;
+	background-color:#e5f5f4;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-right: 1px solid #01a8a0;
+	background-color:#b5e6e3;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	border-right: 1px solid #cdedec;
+	background-color:#e5f5f4;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style3
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	border-right: 1px solid #cdedec;
+	background-color:#cdedec;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style4
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-right: 1px solid #01a8a0;
+	background-color:#cbedec;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style5
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	border-right: 1px solid #cdedec;
+	background-color:#ffffff;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style6
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	border-right: 1px solid #cdedec;
+	background-color:#e5f5f4;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style7
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	background-color:#cdedec;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.data_row_style8
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #cdedec;
+	background-color:#e5f5f4;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.end
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #01a8a0;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.end2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: center;
+	border-top: 1px solid #01a8a0;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Transcript td.warning
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #313131;
+	text-align: right;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#Statistic_Figures_Title th.title
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: center;
+}
+#Attention_Statistic_Figures th.title
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #3A4E7E;
+	text-align: center;
+	border-bottom: 2px solid #4A72AA;
+}
+#Attention_Statistic_Figures td.data_row
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: left;
+	border-right: 2px solid #4A72AA;
+}
+#Attention_Statistic_Figures td.data_row2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: left;
+	border-top: 1px solid #A8BFD4;
+	border-right: 1px solid #A8BFD4; 
+}
+#Attention_Statistic_Figures td.data_row3
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: right;
+	border-top: 1px solid #A8BFD4; 
+}
+#Attention_Statistic_Figures tbody tr.row:nth-child(2n+0) {/*奇數行 nth-child(2n+1),偶數行nth-child(2n+0)*/
+
+background: #EFF4F5; 
+
+}
+#Statistic_Figures_Title2 th.title
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #223224;
+	text-align: center;
+}
+#Relax_Statistic_Figures th.title
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-align: center;
+	background-color:#557F5A;
+}
+#Relax_Statistic_Figures td.data_row
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #223224;
+	text-align: left;
+	background-color:#F2EAD3;
+}
+#Relax_Statistic_Figures td.data_row2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #223224;
+	text-align: left;
+	border-top: 1px solid #F2EAD3;
+	border-right: 1px solid #F2EAD3; 
+}
+#Relax_Statistic_Figures td.data_row3
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #223224;
+	text-align: right;
+	border-top: 1px solid #F2EAD3; 
+}
+/*----------------------------------------------------------------------------------------------------*/
+#Index_Location_Personal{/*Title and Transcript位置*/
+	margin:auto;
+	margin-top:150px;
+	width:1200px;
+}
+#Table_Location_Personal{/*Title and Transcript位置*/
+	margin:auto;
+	margin-top:30px;
+	width:1200px;
+	height:1000px
+}
+#Table_Location2_Personal{/*Attention_Statistic_Figures位置*/
+	margin-top:100px;
+	width:300px;
+}
+#Table_Title_Personal{/*Title and Transcript位置*/
+	margin:auto;
+	margin-top:30px;
+	width:1200px;
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	
+}
+#Title_Personal tr
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-size: 8px;
+	color: #FFFFFF;
+	font-weight: bold;
+	background: #3A4E7E;
+	padding: 12px 10px;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+#Title_Personal td
+{
+	padding: 3px;
+}
+
+#Title_Personal tr.odd
+{
+	background: #FFFFFF;
+	width: 1000px;
+}
+
+#Transcript_Personal th.title
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: center;
+}
+#Transcript_Personal th.title2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: center;
+	border-bottom: 2px solid #4A72AA;
+}
+#Transcript_Personal tbody tr.row:nth-child(2n+0) {/*奇數行 nth-child(2n+1),偶數行nth-child(2n+0)*/
+
+background: #EFF4F5; 
+
+}
+#Transcript_Personal td.data_row
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: left;
+	border-right: 2px solid #4A72AA;
+}
+#Transcript_Personal td.data_row2
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: right;
+	border-top: 1px solid #A8BFD4;
+	border-right: 1px solid #A8BFD4; 
+}
+#Transcript_Personal td.data_row3
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: right;
+	border-top: 1px solid #A8BFD4; 
+}
+#Transcript_Personal td.warning
+{
+	font-family: "Adobe 繁黑體 Std B", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3A4E7E;
+	text-align: right;
+}
+/*----------------------------------------------------------------------------------------------------*/
+/*下拉式選單*/
+#uboxstyle .select_box{width:100px;height:24px;}
+#uboxstyle div.tag_select{display:block;color:#79A2BD;width:80px;height:24px;background:transparent url("photo/ubox-select.gif") no-repeat 0 0;padding:0 10px;line-height:24px;}
+#uboxstyle div.tag_select_hover{display:block;color:#79A2BD;width:80px;height:24px;background:transparent url("photo/ubox-select.gif") no-repeat 0 -24px;padding:0 10px;line-height:24px;}
+#uboxstyle div.tag_select_open{display:block;color:#79A2BD;width:80px;height:24px;background:transparent url("photo/ubox-select.gif") no-repeat 0 -48px;padding:0 10px;line-height:24px;}
+#uboxstyle ul.tag_options{position:absolute;padding:0;margin:0;list-style:none;background:transparent url("photo/ubox-select.gif") no-repeat right bottom;width:100px;padding:0 0 5px;margin:0;}
+#uboxstyle ul.tag_options li{background:transparent url("photo/ubox-select.gif") repeat-y -100px 0;display:block;width:80px;padding:0 10px;height:24px;text-decoration:none;line-height:24px;color:#79A2BD;}
+#uboxstyle ul.tag_options li.open_hover{background:transparent url("photo/ubox-select.gif") no-repeat 0 -72px;color:#fff}
+#uboxstyle ul.tag_options li.open_selected{background:transparent url("photo/ubox-select.gif") no-repeat 0 -96px;color:#fff}
+/*--------------------------------------------------------------------------------------------------------*/
+#button{
+float:top;	
+float:right;	
+}
